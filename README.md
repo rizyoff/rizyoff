@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizyoff</h1>
-<h3 align="center">A passionate frontend developer from Earth\
+<h3 align="center">A passionate frontend developer from Earth
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=dracula)
 
