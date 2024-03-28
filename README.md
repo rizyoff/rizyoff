@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from Earth
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizyoff&langs_count=8&theme=synthwave&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizyoff&langs_count=8&theme=dracula&layout=compact)
 
 
 
