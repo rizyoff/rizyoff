@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rizyoff</h1>
 <h3 align="center">A passionate frontend developer from Earth
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizyoff&langs_count=8&theme=highcontrast&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizyoff&langs_count=8&theme=synthwave&layout=compact)
 
 </h3>
 
