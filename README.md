@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizyoff&langs_count=8&theme=synthwave&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=rizyoff&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=rizyoff&theme=synthwave&layout=compact)](https://github.com/rizyoff/github-readme-stats)
 
 </h3>
 
