@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=dracula)
 
 
 <h3 align="left">Languages and Tools:</h3>
