@@ -1,5 +1,9 @@
+<style>
+  *{align-items:center}
+</style>
+
 <center>
-<h1>- 👋 Hi, I’m @rizyoff</h1>
+<h1> 👋 Hi, I’m @rizyoff</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=radical)
 </center>
