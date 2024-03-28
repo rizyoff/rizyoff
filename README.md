@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizyoff</h1>
+<hr>
 <h3 align="center">A passionate frontend developer from Earth
 <hr>
 
