@@ -1,10 +1,18 @@
-<hr>
-
-<h1 align="center">Hi 👋, I'm Rizyoff</h1>
+<div align="center">
+  
+ <img src=https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif>
+</div>
+<h1 align="center">
+  Hi 👋, I'm Rizyoff
+ 
+</h1>
 
 <img src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif>
 
-<hr>
+<div align="center" >
+  <img src=https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif>
+</div>
+
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
 <div align="left">
@@ -37,20 +45,29 @@
 
 </h1>
 
+<h1 align="center">
+🌐 Socials:
+</h1>
 
-## 🌐 Socials:
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizyoff&label=Profile%20views&color=0e75b6&style=flat" alt="rizyoff" /> 
   </p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Rizky) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadRizky) 
 </div>
 
-# 💻 Tech Stack:
+<h1 align="center">
+  
+  💻 Tech Stack:  
+</h1>
+
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-# 💻 Languange And tools:
+<h1 align="center">
+
+💻 Languange And tools:
+</h1>
 <div align="center">
   
   ![3nRA](https://github.com/rizyoff/rizyoff/assets/132884757/6c4c12b4-b60f-4a5a-b370-61b9f9cfe8f6)
@@ -95,8 +112,9 @@
   </a> 
 </p>
 
-
-# 📊 GitHub Stats:
+<h1 align="center">
+📊 GitHub Stats:
+</h1>
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=rizyoff&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
@@ -106,7 +124,10 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizyoff&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-# 🔝 Top Contributed Repo
+<h1 align="center">
+🔝 Top Contributed Repo
+</h1>
+
 <div align="center">
   
   ![](https://github-contributor-stats.vercel.app/api?username=rizyoff&limit=5&theme=dracula&combine_all_yearly_contributions=true)
