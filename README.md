@@ -1,15 +1,42 @@
 <h1 align="center">Hi 👋, I'm Rizyoff</h1>
 <hr>
-<h3 align="center">A passionate frontend developer from Earth
+<h3 align="center">A passionate frontend developer from Earth</h3>
+
+- 🔭 I’m currently working on **big project**
+
+- 🌱 I’m currently learning **H3cKE12**
+
+- 👯 I’m looking to collaborate on **human**
+
+- 🤝 I’m looking for help with **chat GPT**
+
+- 👨‍💻 All of my projects are available at [huehehhe](huehehhe)
+
+- 💬 Ask me about **mamam apa?**
+
+- 📫 How to reach me **asolole@gmail.com**
+
+- 📄 Know about my experiences [https://fadhil-eka-satria-pratama.itch.io/petualangan-siskuy](https://fadhil-eka-satria-pratama.itch.io/petualangan-siskuy)
+
+- ⚡ Fun fact **I Think im awesome**
+  
 <hr>
 
+<h1 align=center>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=dracula)
 
 <br>
 
+
+![3nRA](https://github.com/rizyoff/rizyoff/assets/132884757/6c4c12b4-b60f-4a5a-b370-61b9f9cfe8f6)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizyoff&langs_count=8&theme=dracula&layout=compact)
 
-</h3>
+</h1>
+
+
 
 
 
