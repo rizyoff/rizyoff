@@ -23,14 +23,12 @@
 <hr>
 
 <h1 align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=dracula)
-
-<br>
-
 
 ![3nRA](https://github.com/rizyoff/rizyoff/assets/132884757/6c4c12b4-b60f-4a5a-b370-61b9f9cfe8f6)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizyoff&show_icons=true&theme=dracula)
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizyoff&langs_count=8&theme=dracula&layout=compact)
 
