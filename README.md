@@ -54,7 +54,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizyoff&label=Profile%20views&color=0e75b6&style=flat" alt="rizyoff" /> 
   </p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadRizky) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-4152a3260/)
 </div>
 
 <h1 align="center">
