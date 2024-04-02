@@ -3,7 +3,8 @@
  <img src=https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif>
 </div>
 <h1 align="center">
-  Hi 👋, I'm Rizyoff
+  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&pause=1000&color=AB4DF7&center=true&vCenter=true&random=false&width=440&lines=😎Hallo+guys+Welcome+to+My+Git😎;🪄Enjoy+Your+Surving🪄)](https://git.io/typing-svg)
  
 </h1>
 
